@@ -5,12 +5,12 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alla-kalyakina/ajs-platforms.git"
+    "url": "git+https://github.com/Alla-Kalyakina/ajs-platforms.git"
   },
   "bugs": {
-    "url": "https://github.com/alla-kalyakina/ajs-platforms/issues"
+    "url": "https://github.com/Alla-Kalyakina/ajs-platforms/issues"
   },
-  "homepage": "https://github.com/alla-kalyakina/ajs-platforms>#readme",
+  "homepage": "https://github.com/Alla-Kalyakina/ajs-platforms>#readme",
   "scripts": {
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
